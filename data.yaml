@@ -1,0 +1,6 @@
+train: E:/Senthil/AI/6.Deep Learning/Object detector with Voice/dataset/Images/Train
+val: E:/Senthil/AI/6.Deep Learning/Object detector with Voice/dataset/Images/Val
+
+nc: 6
+names: ['ac', 'person', 'bottle', 'chair', 'ironbox', 'remote']
+
